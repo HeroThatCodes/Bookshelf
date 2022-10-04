@@ -15,6 +15,7 @@ Steps to get reading
 6. copy link address from the image of the book cover on the right of the page. 
 7. Profit. err read! 
 
+LIST OF INCOMING FEATURES AND IMPROVEMENTS
 Incoming improvements
 Feed to see what others are reading
 Comment section for the book
