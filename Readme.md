@@ -21,4 +21,5 @@ LIST OF INCOMING FEATURES AND IMPROVEMENTS
 3. Comment section for the book
 4. optimizations
 5. Like/upvote feature on the book
-6. Way to read directly from downloading the file into the application? Ambitious .
+6. Way to read directly from downloading the file into the application? Ambitious
+7. Have more fun with it
