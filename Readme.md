@@ -17,6 +17,7 @@ Steps to get reading
 
 LIST OF INCOMING FEATURES AND IMPROVEMENTS
 1. Incoming improvements
+2. recommendations based on lists/genres
 2. Feed to see what others are reading
 3. Comment section for the book
 4. optimizations
