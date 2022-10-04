@@ -16,9 +16,9 @@ Steps to get reading
 7. Profit. err read! 
 
 LIST OF INCOMING FEATURES AND IMPROVEMENTS
-Incoming improvements
-Feed to see what others are reading
-Comment section for the book
-optimizations
-Like/upvote feature on the book
-Way to read directly from downloading the file into the application? Ambitious .
+1. Incoming improvements
+2. Feed to see what others are reading
+3. Comment section for the book
+4. optimizations
+5. Like/upvote feature on the book
+6. Way to read directly from downloading the file into the application? Ambitious .
