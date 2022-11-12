@@ -24,4 +24,4 @@ LIST OF INCOMING FEATURES AND IMPROVEMENTS
 5. Like/upvote feature on the book
 6. Way to read directly from downloading the file into the application? Ambitious
 7. Have more fun with it
-8. styling
+8. styling edits
