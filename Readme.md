@@ -8,7 +8,7 @@ Keep track of currently reading and future reads in one place
 
 Steps to get reading
 1. Make an account
-2. Thats it! Kidding.
+2. Thats it! 
 3. click the drop down and select Add new Book
 4. Enter the name of the book
 5. Enter the gutenburg.org url. Just copy and paste from the search bar easy
